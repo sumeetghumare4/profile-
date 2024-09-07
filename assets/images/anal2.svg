@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="Representation">
+  <g fill="#d8a353" class="color000000 svgShape">
+    <circle cx="21" cy="12.5" r="2.5" fill="#d8a353" class="color000000 svgShape"></circle>
+    <circle cx="41" cy="4.5" r="2.5" fill="#d8a353" class="color000000 svgShape"></circle>
+    <path d="M5 3a1 1 0 0 0-1 1v1H3a1 1 0 0 0 0 2h1v1a1 1 0 0 0 2 0V7h1a1 1 0 0 0 0-2H6V4a1 1 0 0 0-1-1zm56 9h-1v-1a1 1 0 0 0-2 0v1h-1a1 1 0 0 0 0 2h1v1a1 1 0 0 0 2 0v-1h1a1 1 0 0 0 0-2zm-8 12a1 1 0 0 0-1 1v7a1 1 0 0 0 2 0v-7a1 1 0 0 0-1-1z" fill="#d8a353" class="color000000 svgShape"></path>
+    <circle cx="53" cy="36" r="1" fill="#d8a353" class="color000000 svgShape"></circle>
+    <path d="M61 54h-3V22a3 3 0 0 0-3-3H9a3 3 0 0 0-3 3v32H3a1 1 0 0 0-1 1 7.008 7.008 0 0 0 7 7h46a7.008 7.008 0 0 0 7-7 1 1 0 0 0-1-1Zm-23 4H26c-.851 0-1.59-.85-1.873-2h15.746c-.283 1.15-1.022 2-1.873 2Zm18-4H8V22a1 1 0 0 1 1-1h46a1 1 0 0 1 1 1Z" fill="#d8a353" class="color000000 svgShape"></path>
+    <path d="M53 50h-2.5v-7a1 1 0 0 0-1-1h-5a1 1 0 0 0-1 1v7h-3V39a1 1 0 0 0-1-1h-5a1 1 0 0 0-1 1v11h-3V33a1 1 0 0 0-1-1h-5a1 1 0 0 0-1 1v17h-3V26a1 1 0 0 0-1-1h-5a1 1 0 0 0-1 1v24H11a1 1 0 0 0 0 2h42a1 1 0 0 0 0-2zM34 31a1 1 0 0 0 .707-.293L36.414 29H47a1 1 0 0 0 0-2H36a1 1 0 0 0-.707.293l-2 2A1 1 0 0 0 34 31zm7-6h6a1 1 0 0 0 0-2h-6a1 1 0 0 0 0 2z" fill="#d8a353" class="color000000 svgShape"></path>
+  </g>
+</svg>
